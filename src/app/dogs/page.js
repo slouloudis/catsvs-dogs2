@@ -5,8 +5,8 @@ export const metadata = {
     openGraph: {
         title: 'Dogs!',
         type: "website",
-        url: "",
-        image: "/catsvsdogs.jpg",
+        url: "https://catsvs-dogs2.vercel.app/dogs",
+        image: "https://catsvs-dogs2.vercel.app/catsvsdogs.jpg",
     }
 }
 

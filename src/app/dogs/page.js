@@ -6,7 +6,7 @@ export const metadata = {
         title: 'Dogs!',
         type: "website",
         url: "https://catsvs-dogs2.vercel.app/dogs",
-        image: "https://catsvs-dogs2.vercel.app/opengraph-image.jpg",
+        images: ["https://catsvs-dogs2.vercel.app/opengraph-image.jpg"]
     }
 }
 
